@@ -16,7 +16,7 @@ const FazerPix = () => {
     return (
         <View style={styles.container}>
             <Text style={styles.title}>Qual é o valor da transferência?</Text>
-            <Text style={styles.saldo}>Saldo disponível em conta R$ 1.500.000,00.</Text>
+            <Text style={styles.saldo}>Saldo disponível em conta R$ 1.500,00.</Text>
             <TextInput
                 style={styles.input}
                 placeholder="Valor"
